@@ -1,11 +1,7 @@
 <resources>
-    <string name="app_name">BMI Calculator</string>
-    <string name="title">Body Mass Index (BMI)</string>
-    <string name="bmi_weight">Weight</string>
-    <string name="caculate_bmi">Caculate BMI</string>
-    <string name="bmi_ib">lb</string>
-    <string name="bmi_inches">inches</string>
-    <string name="bmi_feet">feet</string>
-    <string name="bmi_height">Height</string>
-
+    <string name="app_name">InClass 03</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="select_avatar">Select Avatar</string>
+    <string name="save_button">Save</string>
 </resources>
