@@ -20,6 +20,6 @@ Part 2 (Select Avatar Activity):
 Part 3 (Display My Profile Activity, 15 points):  
 
 1. This activity contains an ImageView, two TextViews, and a Button.
-2. It will display the avatar, and the name as it is shown in Figure 1(d and f).
+2. It will display the avatar, and the name.
 3. Name should be created concatenating the first and the last names.
 4. Clicking on the Edit button should finish the this activity.
